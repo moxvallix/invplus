@@ -20,3 +20,5 @@ Low priority disposal: If the inventory is full, items on a customisable low pri
 Auto Tool: Optionally, a setting can be turned on to enable Auto Tool, where trying to mine a block will automatically equip the correct tool. 
 
 Tool Protection: Tools can be marked as protected. These tools are swapped out before they break, either for a fresh tool, or for the hand. As well, a dialogue asks the player before the item is thrown, to make sure it is safe.
+
+Offhand Improvement: Pressing ctrl when right clicking uses blocks from the off-hand, rather than the mainhand.
