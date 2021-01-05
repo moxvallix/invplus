@@ -22,3 +22,5 @@ Auto Tool: Optionally, a setting can be turned on to enable Auto Tool, where try
 Tool Protection: Tools can be marked as protected. These tools are swapped out before they break, either for a fresh tool, or for the hand. As well, a dialogue asks the player before the item is thrown, to make sure it is safe.
 
 Offhand Improvement: Pressing ctrl when right clicking uses blocks from the off-hand, rather than the mainhand.
+
+Precise Item amounts: Using a keybind, whilst hovering over an item, a numerical amount (between 1 - 64) can be specified to pick up exactly the specified amount.
